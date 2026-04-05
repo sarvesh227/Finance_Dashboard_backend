@@ -2,9 +2,8 @@
 
 Welcome to my Finance Dashboard project! This is a secure, role-based backend built to manage financial records and provide calculated data for a global dashboard. 
 
-Additionally, I have built a full React Frontend to accompany this project!
-- **Frontend Live Link:** [Link to be added]
-- **Backend Live Link:** [Link to be added]
+
+- **Backend Live Link:** [https://finance-dashboard-backend-9mb4.onrender.com/]
 
 ---
 
@@ -61,4 +60,6 @@ I implemented a strict 3-tier role system to keep the application secure. When a
    ```bash
    npm run dev
    ```
-   The backend will now be actively running at `http://localhost:5000`
+   Additionaly , 
+   i have also built a frontend for better Understanding og the workflow 
+   check it out here : 
