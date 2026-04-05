@@ -61,5 +61,5 @@ I implemented a strict 3-tier role system to keep the application secure. When a
    npm run dev
    ```
    Additionaly , 
-   i have also built a frontend for better Understanding og the workflow 
-   check it out here : 
+   i have also built a frontend for better Understanding of the workflow 
+   check it out here : https://frontend-d-uezr.vercel.app/login
