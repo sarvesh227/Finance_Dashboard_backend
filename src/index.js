@@ -24,6 +24,14 @@ app.get("/health", (_req, res) => {
   res.json({ status: "ok", timestamp: new Date().toISOString() });
 });
 
+app.get("/", (_req, res) => {
+  res.json({
+    success: true,
+    message: "Zorvyn Finance API is running smoothly!",
+    version: "1.0.0"
+  });
+});
+
 // ─── API Routes ───────────────────────────────────────────────────────────────
 app.use("/api/auth", authRoutes);
 app.use("/api/users", userRoutes);
